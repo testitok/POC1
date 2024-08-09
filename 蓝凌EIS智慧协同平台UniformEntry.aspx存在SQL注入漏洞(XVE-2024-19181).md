@@ -7,6 +7,11 @@
 ```yaml
 icon_hash="953405444"||app="Landray-OA系统"
 ```
+##hunter
+```yaml
+web.icon=="585275a4cc54b8414554d03e1359a101"
+```
+
 
 ## poc
 
